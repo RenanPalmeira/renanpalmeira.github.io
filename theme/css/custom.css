@@ -57,6 +57,10 @@ div.author, span.author, time{
 	border: 0;
 	border-top: solid 1px #EDEDED;
 }
+.article-body p{
+	text-align: justify;
+	text-indent: 40px;
+}
 .img-1{
 	max-width: 15%!important;
 	max-height: 15%!important;
