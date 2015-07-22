@@ -59,7 +59,12 @@ div.author, span.author, time{
 }
 .article-body p{
 	text-align: justify;
-	text-indent: 40px;
+	text-indent: 20px;
+}
+.article-body .no-indent{
+	text-align: justify;
+	text-indent: 0px;
+	padding-left: 20px;
 }
 .img-1{
 	max-width: 15%!important;
